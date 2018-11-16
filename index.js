@@ -1,4 +1,4 @@
 // Write your code in this file!
-let currentUser = "Bill Pardy"
+const currentUser = "Bill Pardy";
 
 let welcomeMessage = 
